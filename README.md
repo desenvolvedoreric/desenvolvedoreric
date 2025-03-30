@@ -31,8 +31,8 @@
 
 - **Idade:** 20 anos
 - **Localização:** São Paulo, Brasil
-- **Estudando:** Python
-- **Educação:** Curso online de python pela OneBitCode
+- **Estudando:** Frontend
+- **Educação:** Curso online de frontend pela OneBitCode
   
 <p align="center">
   <a href="github.com/desenvolvedoreric" target="blank"><img align="center" 
