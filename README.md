@@ -61,4 +61,4 @@
   </p>
 </details>
 
-Ultima edição: 09/06/2024
+Ultima edição: 30/03/2025
