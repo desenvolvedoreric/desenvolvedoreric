@@ -2,7 +2,7 @@
 <h1 align="center">Olá, eu sou o Eric 🦊</h1>
 <h4 align="center">
   Um estudante de programação na plataforma, 
-  <a href="https://www.onebitcode.com/" target="_blank">onebitcode</a>
+  <a href="https://www.origamid.com/" target="_blank">Origamid</a>
   que deseja evoluir.
 </h4>
 </div>
@@ -29,10 +29,10 @@
 <samp>
 <h2 align="center">Informações</h2>
 
-- **Idade:** 20 anos
+- **Idade:** 22 anos
 - **Localização:** São Paulo, Brasil
 - **Estudando:** Frontend
-- **Educação:** Curso online de frontend pela OneBitCode
+- **Educação:** Curso online de frontend pela Origamid
   
 <p align="center">
   <a href="github.com/desenvolvedoreric" target="blank"><img align="center" 
@@ -61,4 +61,4 @@
   </p>
 </details>
 
-Ultima edição: 30/03/2025
+Ultima edição: 30/06/2025
